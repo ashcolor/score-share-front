@@ -4,6 +4,12 @@ We recommend to look at the [documentation](https://v3.nuxtjs.org).
 
 ## Setup
 
+For nvm
+
+```bash
+nvm use
+```
+
 Make sure to install the dependencies
 
 ```bash
